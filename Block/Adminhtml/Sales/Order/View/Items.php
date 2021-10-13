@@ -171,7 +171,7 @@ class Items extends \Magento\Backend\Block\Template
     /**
      * Retrieve save url
      *
-     * @return string
+     * @return array
      * @codeCoverageIgnore
      */
     public function getSaveUrl()
